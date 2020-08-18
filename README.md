@@ -1,8 +1,8 @@
 ### Hi there!  
 
-Hi! I am Arnav Thareja, a freshman at the University of Washington studying CS in the Paul G. Allen School of Computer Science & Engineering. I'm currently looking for research opportunities, data science internships, or software engineering internships.  
+Hi! I am Arnav Thareja, a freshman at the University of Washington studying Computer Science in the Paul G. Allen School of Computer Science & Engineering. I'm currently looking for research opportunities, data science internships, or software engineering internships.  
 
-You can reach me at [athareja@cs.washington.edu](mailto:athareja@cs.washington.edu) and see my personal website at [arnavthareja.github.io](https://arnavthareja.github.io).
+You can reach me at [athareja@uw.edu](mailto:athareja@uw.edu) and see my personal website at [arnavthareja.github.io](https://arnavthareja.github.io).
 
 <!--
 **arnavthareja/arnavthareja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
